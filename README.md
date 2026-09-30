@@ -5,3 +5,9 @@ ConveyorGuardPod – Intelligent Conveyor Belt Joint Monitoring Dashboard
 [Open ConveyorGuard Simulation](https://wokwi.com/projects/476307088813369345)
 
 
+
+## Live Dashboard
+
+[Open ConveyorGuard Live Dashboard](https://capable-mousse-4ce1cf.netlify.app/)
+
+
