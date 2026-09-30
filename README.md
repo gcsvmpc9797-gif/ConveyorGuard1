@@ -19,7 +19,10 @@ ConveyorGuardPod – Intelligent Conveyor Belt Joint Monitoring Dashboard
 
 
 ## Conceptual Visualization of Proposed ConveyorGuard Pod
-![ConveyorGuard Visualization](./
+
+![Conceptual Visualization of Proposed ConveyorGuard Pod](./Conceptual%20Visualization%20of%20Proposed%20ConveyorGuard%20Pod.png)
+
+*AI-generated conceptual visualization of the proposed ConveyorGuard Pod.*
 
 
 
