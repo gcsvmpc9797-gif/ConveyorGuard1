@@ -14,6 +14,6 @@ ConveyorGuardPod – Intelligent Conveyor Belt Joint Monitoring Dashboard
 
 ## Working Methodology
 
-![ConveyorGuard Working Methodology (Working Methodology.jpeg)
+![ConveyorGuard Working Methodology](./Working%20Methodology.jpeg)
 
 
